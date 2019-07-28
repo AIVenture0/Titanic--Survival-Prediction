@@ -23,11 +23,15 @@ Code in the repo is for the one who just begin with kaggle's Titanic competition
 How to approach the any competition over kaggle and how to start with it.
 
 ## Dependencies 
-- Classification Algorithms
+
+- Python3
 - Numpy 
 - Pandas
 - Matplotlib
+- Supervised Learning
 - Machine Learning Algorithm
+- Classification Algorithms
+
 ## Usage
 Run this using [jupyter notebook](http://jupyter.readthedocs.io/en/latest/install.html). Just type `jupyter notebook` in the main directory and the code will pop up in a browser window. 
 
