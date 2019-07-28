@@ -1,4 +1,6 @@
-# Titanic(One of the most popular kaggle competition for the ML Beginners)
+![Titanic](https://titanichistoricalsociety.org/wp-content/uploads/2017/09/titanic_historical_society_homepage_harley_crossley.jpg)
+
+<b align='center'> Titanic(One of the most popular kaggle competition for the ML Beginners)</b>
 The most famous competition over the kaggle .
 
 ![](http://media.giphy.com/media/1Nk9bIidJVTy0/giphy.gif)
