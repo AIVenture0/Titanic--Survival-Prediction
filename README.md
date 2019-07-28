@@ -7,7 +7,6 @@ In this Repository my intention is to basically explain to every beginner but ho
 
 ```Let's Begin```
 
-
 ## Competition Description
 
 ![](http://media.giphy.com/media/1Nk9bIidJVTy0/giphy.gif)
