@@ -24,13 +24,13 @@ How to approach the any competition over kaggle and how to start with it. ```Thi
 
 ## Dependencies 
 
-- Python3
-- Numpy 
-- Pandas
-- Matplotlib
-- Supervised Learning
-- Machine Learning Algorithm
-- Classification Algorithms
+- ```Python3```
+- ```Numpy```
+- ```Pandas```
+- ```Matplotlib```
+- ```Supervised Learning```
+- ```Machine Learning Algorithm```
+- ```Classification Algorithms```
 
 ## Usage
 Run this using [jupyter notebook](http://jupyter.readthedocs.io/en/latest/install.html). Just type `jupyter notebook` in the main directory and the code will pop up in a browser window. 
