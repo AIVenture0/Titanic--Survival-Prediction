@@ -20,7 +20,7 @@ In this challenge, we ask you to complete the analysis of what sorts of people w
 
 ## Overview
 Code in the repo is for the one who just begin with kaggle's Titanic competition.This basically explains all the basic concept ,
-How to approach the any competition over kaggle and how to start with it. This notebook will not make you an expert but too damn sure it will guide you to __How to get started__ and rest is up to you ..
+How to approach the any competition over kaggle and how to start with it. ```This notebook will not make you an expert but too damn sure it will guide you to __How to get started__ and rest is up to you ..```
 
 ## Dependencies 
 
