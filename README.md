@@ -30,6 +30,8 @@ How to approach the any competition over kaggle and how to start with it. ```Thi
 
 __Quick Start__: [View](https://nbviewer.jupyter.org/github/AIVenture0/Titanic--Survival-Prediction/blob/master/Titanic.ipynb) a static version of the notebook in the comfort of your own web browser
 
+__Quick Start__: <a href="https://nbviewer.jupyter.org/github/AIVenture0/Titanic--Survival-Prediction/blob/master/Titanic.ipynb" target="blank">View </a> a static version of the notebook in the comfort of your own web browser
+
 
 ## Dependencies 
 
