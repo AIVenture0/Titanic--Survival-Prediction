@@ -28,7 +28,6 @@ How to approach the any competition over kaggle and how to start with it. ```Thi
 <img src="https://cdn2.iconfinder.com/data/icons/greenline/512/camera-512.png" width='50px' height='50px'>
 </p>
 
-
 __Quick Start__: <a href="https://nbviewer.jupyter.org/github/AIVenture0/Titanic--Survival-Prediction/blob/master/Titanic.ipynb" target="_blank">View </a> a static version of the notebook in the comfort of your own web browser
 
 
