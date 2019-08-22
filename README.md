@@ -18,11 +18,12 @@ One of the reasons that the shipwreck led to such loss of life was that there we
 
 In this challenge, we ask you to complete the analysis of what sorts of people were likely to survive. In particular, we ask you to apply the tools of machine learning to predict which passengers survived the tragedy.
 
-**Quick Start**: [View](https://nbviewer.jupyter.org/github/AIVenture0/Titanic--Survival-Prediction/blob/master/Titanic.ipynb) a static version of the notebook in the comfort of your own web browser.
-
 ## Overview
 Code in the repo is for the one who just begin with kaggle's Titanic competition.This basically explains all the basic concept ,
 How to approach the any competition over kaggle and how to start with it. ```This notebook will not make you an expert but too damn sure it will guide you to How to get started and rest is up to you ..```
+
+**Quick Start**: [View](https://nbviewer.jupyter.org/github/AIVenture0/Titanic--Survival-Prediction/blob/master/Titanic.ipynb) a static version of the notebook in the comfort of your own web browser.
+
 
 ## Dependencies 
 
@@ -36,6 +37,26 @@ How to approach the any competition over kaggle and how to start with it. ```Thi
 
 ## Usage
 Run this using [jupyter notebook](http://jupyter.readthedocs.io/en/latest/install.html). Just type `jupyter notebook` in the main directory and the code will pop up in a browser window. 
+
+##Goal for this Notebook:
+Show a simple example of an analysis of the Titanic disaster in Python using a full complement of PyData utilities. This is aimed for those looking to get into the field or those who are already in the field and looking to see an example of an analysis done with Python.
+
+## This Notebook will show basic examples of:
+
+- Data Handling
+- Importing Data with Pandas
+- Cleaning Data
+- Exploring Data through Visualizations with Matplotlib
+
+## Data Analysis
+Supervised Machine learning Techniques: + Logit Regression Model + Plotting results + Support Vector Machine (SVM) using 3 kernels + Basic Random Forest + Plotting results
+
+## Valuation of the Analysis
+- K-folds cross validation to valuate results locally
+- Output the results from the IPython Notebook to Kaggle
+
+
+**Competition Website**: [kaggle](http://www.kaggle.com/c/titanic-gettingStarted)
 
 ## Result
 The output of the code is to predict the survival(0-Die,1-Survive) of the passenger who borded on the Titanic.
