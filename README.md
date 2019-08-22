@@ -1,8 +1,10 @@
 <h1 align="center" font-size:16px"><b>Titanic</b></h1>
 
-![Titanic](https://titanichistoricalsociety.org/wp-content/uploads/2017/09/titanic_historical_society_homepage_harley_crossley.jpg)
 
-<b align='center'> Titanic(One of the most popular kaggle competition for the ML Beginners)</b>
+<p align="center">
+  <img src="http://media.giphy.com/media/1Nk9bIidJVTy0/giphy.gif">
+</p>
+
 
 The most famous competition over the kaggle .
 In this Repository my intention is to basically explain to every beginner but how to begin with Kaggle very first time. So this repository is for those who just begin their __Machine Learning Journey__. In this notebook i try to take down every single topic with a very naive approach so every beginner can grasp it very easily.
@@ -10,9 +12,6 @@ In this Repository my intention is to basically explain to every beginner but ho
 ```Let's Begin```
 
 ## Competition Description
-
-![](http://media.giphy.com/media/1Nk9bIidJVTy0/giphy.gif)
-
 
 The sinking of the RMS Titanic is one of the most infamous shipwrecks in history.  On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.
 
