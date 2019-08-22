@@ -1,3 +1,5 @@
+<h1 align="center" font-size:16px"><b>Titanic</b></h1>
+
 ![Titanic](https://titanichistoricalsociety.org/wp-content/uploads/2017/09/titanic_historical_society_homepage_harley_crossley.jpg)
 
 <b align='center'> Titanic(One of the most popular kaggle competition for the ML Beginners)</b>
